@@ -1,0 +1,1 @@
+该仓库用于Python课程实验作业的存储，包含Python的数据分析的基本用法，包含Pandas、Numpy、matlab、seaborn等外部库，实现了简单的数据分析和以图形的方式将数据可视化。
